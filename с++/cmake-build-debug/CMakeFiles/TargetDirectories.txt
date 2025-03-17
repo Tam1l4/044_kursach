@@ -1,0 +1,3 @@
+C:/Users/Вова/Desktop/с++/cmake-build-debug/CMakeFiles/__.dir
+C:/Users/Вова/Desktop/с++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Вова/Desktop/с++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
